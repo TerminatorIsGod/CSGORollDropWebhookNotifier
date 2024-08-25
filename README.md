@@ -2,6 +2,9 @@
 
 
 [CSGORoll](https://csgoroll.com/r/EGAR) Gem Drop Webhook Notifier
+- It will notify you via discord webhook when the team 2x boost, golden drop, or regular drop occurs
+- You can set at what percentage it will notify you and how frequently
+- No need to login to a steam or CSGORoll account
 
 Use code "Egar" to help support me. 
 
