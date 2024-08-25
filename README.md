@@ -10,8 +10,6 @@ Use code "Egar" to help support me.
 
 # How to use
 
-In this example I use discord but can work anywhere that can provide a webhook url.
-
 1. Download the program from [releases](https://github.com/TerminatorIsGod/CSGORollDropWebhookNotifier/release)
 
 2. Go to a discord channel in a server where you have permission to create a webhook. Click edit channel -> integrations -> create webhook -> click on new bot -> copy webhook url
