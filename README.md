@@ -17,7 +17,7 @@ If you have issues or want any customizations made to the discord notifications 
 
 # How to use
 
-1. Download the program from [releases](https://github.com/TerminatorIsGod/CSGORollDropWebhookNotifier/release)
+1. Download the program from [releases](https://github.com/TerminatorIsGod/CSGORollDropWebhookNotifier/releases)
 
 2. Go to a discord channel in a server where you have permission to create a webhook. Click edit channel -> integrations -> create webhook -> click on new bot -> copy webhook url
 <br>
