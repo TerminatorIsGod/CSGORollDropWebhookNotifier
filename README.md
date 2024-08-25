@@ -8,6 +8,10 @@
 
 Use code "Egar" to help support me. 
 
+
+If you have issues or want any customizations made to the discord notifications such as removing the advertisement, feel free to contact me on discord: TerminatorIsGod
+
+
 ### Checkout my free [CSGORoll auto daily rewards collector](github.com/TerminatorIsGod/CSGORoll-Daily-Rewards-Bot)!
 
 
